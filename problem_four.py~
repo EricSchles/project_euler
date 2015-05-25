@@ -1,0 +1,8 @@
+def splitter(n):
+    tmp = []
+    for i in n:
+        tmp.append(i)
+    return tmp
+
+def is_palindrome(n):
+    
