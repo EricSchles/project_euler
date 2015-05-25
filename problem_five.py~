@@ -1,0 +1,4 @@
+product = 1
+for i in xrange(1,21):
+    product *= i
+print product
